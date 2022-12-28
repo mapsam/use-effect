@@ -4,10 +4,13 @@ A slightly effective means of showcasing the `useEffect` hook in React.
 
 ![](/public/readme.png)
 
+### Run locally
+
+```sh
+# available @ http://localhost:3000/use-effect
+npm start
+```
+
 ### Deploy
 
-The following will build and push the deployable react app to the gh-pages branch.
-
-```
-npm run deploy
-```
+This page is automtically deployed using gh-pages and GitHub actions.
